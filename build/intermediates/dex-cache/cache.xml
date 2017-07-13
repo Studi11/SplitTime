@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_a5bf1b6de41ce183a50700e57fe196b36716cdef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_44fe61c5b115b134bfd5cf5f718790d9ad68d7e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_0d75cadc394540cb4f3f46ce7e80dbe95cb20386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_55ea4522e35b147141acaff212cb355e8be4d2f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e3e24ff0da399ed23cf53b6c1a46b571f2014e5">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f024dd6757cf22d8ae498ab0497537f22707480/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_17ab7bf15455229030ba4291e3bed2f1950ec002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_d20751c0de3710a5184b4c54d046c995b2d897d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_ae6772d60e399230fef2b6b0b4124bedfd728377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_3022fa5cb4743e34702acd34a7476e1cdc415224/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfc5ac9a7869a7ae5d3373cf27f77e3d206157ff">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b166be3a0a3786f66b46f8754160ba75e02775b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_f392a2d5c7c15646a4c52b3a046022038bbbfbfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_ec1e6192ae7ab46795d40d92b35f4151085adaab/classes.dex" />
+    </item>
+
+</items>

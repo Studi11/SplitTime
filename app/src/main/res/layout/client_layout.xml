@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.studi.timesyncwifi.Activity.ClientActivity" >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/clientLayout">
+
+        <com.studi.timesyncwifi.Utility.OpenCVCamera
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/cameraView"
+            app:camera_id="front"
+            app:show_fps="true"
+            />
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/serverList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="24dp"
+        android:background="#EEEEEE"/>
+
+</RelativeLayout>

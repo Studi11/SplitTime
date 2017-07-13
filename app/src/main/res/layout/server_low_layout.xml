@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:background="#000000">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/wholeView">
+
+        <com.studi.timesyncwifi.Utility.OpenCVCamera
+            android:id="@+id/cameraView"
+            app:camera_id="front"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

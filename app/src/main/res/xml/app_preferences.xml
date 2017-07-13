@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceScreen
+        android:title="HogLine Settings"
+        android:key="hogline_settings" >
+
+        <EditTextPreference
+            android:title="SplitTime Timeout"
+            android:key="split_timeout"
+            android:summary="how long the last split time should be displayed"
+            android:defaultValue="10" />
+
+        <CheckBoxPreference
+            android:key="use_split_time_limits"
+            android:title="Use Split Time Limits"
+            android:summary="Use the specified limits"
+            android:defaultValue="false" />
+
+        <EditTextPreference
+            android:title="Min SplitTime"
+            android:key="min_split"
+            android:summary="Minimal SplitTime to stop Timer"
+            android:defaultValue="3.2" />
+
+        <EditTextPreference
+            android:title="Max SplitTime"
+            android:key="max_split"
+            android:summary="Maximal SplitTime to stop Timer"
+            android:defaultValue="4.3" />
+
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:title="Backline Settings"
+        android:key="backline_Settings" >
+
+    </PreferenceScreen>
+
+    <PreferenceCategory
+        android:title="General Settings"
+        android:key="general_settings" >
+
+        <CheckBoxPreference
+            android:key="dev"
+            android:title="Dev"
+            android:summary="enable dev mode"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:key="log"
+            android:title="Log details"
+            android:summary="log internal information (for dev purposes only)"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

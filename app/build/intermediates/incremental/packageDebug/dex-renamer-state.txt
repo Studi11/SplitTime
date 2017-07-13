@@ -1,0 +1,7 @@
+#Thu Jul 13 10:03:57 CEST 2017
+base.0=/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f024dd6757cf22d8ae498ab0497537f22707480
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b166be3a0a3786f66b46f8754160ba75e02775b/classes.dex
+base.1=/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b166be3a0a3786f66b46f8754160ba75e02775b
+file.0=/home/studi/android-workspace/TimeSyncWifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f024dd6757cf22d8ae498ab0497537f22707480/classes.dex

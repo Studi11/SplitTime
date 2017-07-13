@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="16dp"
+        android:paddingBottom="32dp">
+
+        <TextView
+            android:text="Select Place of this Device"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/title"
+            android:textSize="20sp"
+            android:textStyle="normal|bold"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_centerHorizontal="true"/>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:paddingTop="8dp">
+
+            <Button
+                android:text="Hog2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:id="@+id/hog2Button"
+                android:enabled="false"/>
+
+            <Button
+                android:text="Hog1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/hog2Button"
+                android:id="@+id/hog1Button"/>
+
+            <Button
+                android:text="Back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/hog1Button"
+                android:id="@+id/backButton"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

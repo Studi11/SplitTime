@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplitTime</string>
+    <string name="NSDServiceName">SplitTime</string>
+    <string name="NSDServiceType">splittime</string>
+
+    <string name="main_settings_id">settings_id</string>
+    <string name="main_settings">Settings</string>
+</resources>
